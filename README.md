@@ -33,7 +33,7 @@ Gray Level Co-Occurrence Matrix adalah representasi statistik dari kemunculan pa
 4.	Support Vector Machine\
 Support Vector Machine adalah metode pada machine learning yang dapat digunakan untuk menganalisis data dan mengurutkannya ke dalam salah satu dari dua kategori. SVM bekerja untuk mencari hyperplane atau fungsi pemisah (decision boundary) terbaik untuk memisahkan dua buah kelas atau lebih pada ruang input. Hiperplane dapat berupa line atau garis pada dua dimensi.
 
-**Referensi:** 
+**Referensi:** \
 https://agrotek.id/hama-dan-penyakit-tanaman-gandum/ \
 https://pemrogramanmatlab.com/2017/07/26/pengolahan-citra-digital/ \
 https://pemrogramanmatlab.com/tag/gray-level-co-occurrence-matrix-glcm/ \
