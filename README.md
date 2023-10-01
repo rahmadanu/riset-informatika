@@ -21,16 +21,16 @@ Tanaman gandum adalah salah satu bahan untuk makanan pokok yang umum di dunia. D
 
 ### Teori Terkait
 
-1.	Penyakit Tanaman Gandum
+1.	Penyakit Tanaman Gandum\
 Penyakit dan hama yang menyerang tanaman gandum memiliki beragam sebab, mulai dari adanya pathogen tanah, perubahan iklim dan system tanah sampai dengan kerentanan tanaman itu sendiri. Diantara berbagai penyakit yang mungkin sekali menyerang tanaman gandum, salah satu penyakit yang paling berbahaya dan merugikan serta paling luas penyebarannya adalah penyakit karat.
 
-2.	Citra Digital
+2.	Citra Digital\
 Citra digital merupakan representasi dari fungsi intensitas cahaya dalam bentuk diskrit pada bidang dua dimensi. Citra tersusun oleh sekumpulan piksel (picture element) yang memiliki koordinat (x,y) dan amplitudo f(x,y). Koordinat (x,y) menunjukkan letak/posisi piksel dalam suatu citra, sedangkan amplitudo f(x,y) menunjukkan nilai intensitas warna citra.
 
-3.	Gray Level Co-Occurrence Matrix
+3.	Gray Level Co-Occurrence Matrix\
 Gray Level Co-Occurrence Matrix adalah representasi statistik dari kemunculan pasangan piksel dengan intensitas tertentu dalam citra. Matriks ini menggambarkan hubungan spasial antara pasangan piksel dengan intensitas tertentu dalam citra. GLCM dapat digunakan untuk mengukur tekstur citra dengan berbagai metrik.
 
-4.	Support Vector Machine
+4.	Support Vector Machine\
 Support Vector Machine adalah metode pada machine learning yang dapat digunakan untuk menganalisis data dan mengurutkannya ke dalam salah satu dari dua kategori. SVM bekerja untuk mencari hyperplane atau fungsi pemisah (decision boundary) terbaik untuk memisahkan dua buah kelas atau lebih pada ruang input. Hiperplane dapat berupa line atau garis pada dua dimensi.
 
 **Referensi:** 
