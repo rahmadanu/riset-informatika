@@ -11,7 +11,7 @@
 
 [A High Performance Wheat Disease Detection Based on Position Information](https://pubmed.ncbi.nlm.nih.gov/36904051/)
 
-### Progres Riset
+## Progres Riset
 
 **Topik penelitian**
 
@@ -33,6 +33,6 @@ Support Vector Machine adalah metode pada machine learning yang dapat digunakan 
 
 3. Image segmentation (proses membagi gambar berdasarkan karakteristik)
 
-4. Feature extraction ( proses pemilihan gambar dari data mentah menjadi data yang siap di-training) 
+4. Feature extraction (proses pemilihan gambar dari data mentah menjadi data yang siap di-training) 
 
 5. Classification (klasifikasi gambar untuk pengelompokkan pengakit tanaman gandum)
