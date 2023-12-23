@@ -9,3 +9,5 @@
 [Dataset](https://github.com/rahmadanu/riset-informatika/tree/main/dataset)
 
 [Coding](https://github.com/rahmadanu/riset-informatika/tree/main/coding)
+
+[Analisis](https://github.com/rahmadanu/riset-informatika/tree/main/analisis)
